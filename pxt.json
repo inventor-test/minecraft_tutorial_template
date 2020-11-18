@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "minecraft_lesson.md",
-        "minecraft_lesson2.md"
+        "minecraft_lesson2.md",
+        "lesson3.md"
     ],
     "testFiles": [
         "test.ts"
