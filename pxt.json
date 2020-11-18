@@ -16,10 +16,10 @@
     ],
     "targetVersions": {
         "target": "1.2.9",
-        "targetId": "arcade"
+        "targetId": "minecraft"
     },
     "supportedTargets": [
-        "arcade"
+        "minecraft"
     ],
     "preferredEditor": "blocksprj"
 }
