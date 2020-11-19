@@ -1,5 +1,4 @@
 # CodeFUN
-### @hideIteration false
 
 ## Вступ 
 
