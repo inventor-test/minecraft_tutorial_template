@@ -9,7 +9,7 @@ When done, press the **Play** button to compile the code, then go to Minecraft, 
 
 ```block
 player.onChat("1", function () {
-    agent.move(FORWARD, 1)
+    agent.move(FORWARD, 3)
 })
 ```
 You can change the number of steps your Agent will move by changing the number inside the ``||agent:agent move||`` block. You also can use an ``||agent:agent turn||`` block to turn the Agent to the left or right.
